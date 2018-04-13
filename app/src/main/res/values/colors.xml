@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="customColor_Cyan_dark">#069ba1</color>
+    <color name="customColor_Cyan_light">#00c9d1</color>
+
+    <color name="customColor_A700">#D50000</color>
+    <color name="customColor_Red_500">#F44336</color>
+    <color name="customColor_Red_600">#E53935</color>
+
+</resources>

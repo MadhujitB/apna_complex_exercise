@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apna Complex Exercise</string>
+    <string name="title_activity_document_categories">DocumentCategoriesActivity</string>
+    <string name="title_activity_document_list">DocumentListActivity</string>
+</resources>
